@@ -89,3 +89,7 @@ project1_rag_chatbot/
 ├── requirements.txt
 └── README.md
 ```
+## 🎥 Demo
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/SkITBQkZz28)
+
+> Upload any PDF and chat with it using Groq LLM + ChromaDB vector search.
